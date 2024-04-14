@@ -1,7 +1,6 @@
 # Logistic Regression from Scratch
 
 ![pandas](https://img.shields.io/badge/-pandas-navy?logo=pandas)
-
 ![scikit](https://img.shields.io/badge/-scikit--learn-blue?logo=scikitlearn)
 
 # Code Walk-Through
