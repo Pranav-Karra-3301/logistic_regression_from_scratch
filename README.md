@@ -1,8 +1,8 @@
 # Logistic Regression from Scratch
 
-https://img.shields.io/badge/-pandas-navy?logo=pandas
+![pandas](https://img.shields.io/badge/-pandas-navy?logo=pandas)
 
-https://img.shields.io/badge/-scikit--learn-blue?logo=scikitlearn
+![scikit](https://img.shields.io/badge/-scikit--learn-blue?logo=scikitlearn)
 
 # Code Walk-Through
 
